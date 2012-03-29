@@ -1,0 +1,80 @@
+<rss version="2.0">
+<channel>
+    <title>Audiozaznamy zasedani akademickeho senatu CVUT FEL</title>
+    <link>http://www.fel.cvut.cz/senat/</link>
+    <description></description>
+
+    <item>
+        <title>1. radne zasedani dne 9. 4. 2010</title>
+        <link>http://www.fel.cvut.cz/senat/</link>
+        <description>Program zasedani: schvaleni programu; volba predsednictva; schvaleni zapisu predchoziho zasedani senatu; ustaveni komisi senatu; uprava adresaru a pristupovych prav; "administrativni zajisteni" prace; stav projednavani Volebniho a jednaciho radu; STM - ECTS; ruzne: Open Air Festival, stav prijimaciho rizeni, prospechova stipendia, nastenka na Karlove namesti; termin dalsiho jednani.</description>
+        <enclosure url="https://media.feld.cvut.cz/archive/asfel/20100409.mp3" type="audio/mpeg" />
+    </item>
+
+    <item>
+        <title>2. radne zasedani dne 7. 5. 2010</title>
+        <link>http://www.fel.cvut.cz/senat/</link>
+        <description>Program zasedani: schvaleni programu; schvaleni zapisu; rozdeleni financnich prostredku CVUT FEL; stav a budoucnost Volebniho a Jednaciho Radu AS FEL; informace o harmonogramu CVUT FEL; rozvojove projekty a FEL; e-mailova konference senat; doplneni disciplinarni komise; termin dalsiho jednani AS FEL</description>
+        <enclosure url="https://media.feld.cvut.cz/archive/asfel/20100507.mp3" type="audio/mpeg" />
+    </item>
+
+    <item>
+        <title>3. radne zasedani dne 4. 6. 2010</title>
+        <link>http://www.fel.cvut.cz/senat/</link>
+        <description>Program zasedani: Schvaleni programu; Schvaleni zapisu; Zprava z Komise pro Vedu a Vyzkum; Zprava z Pedagogicke komise; Databaze zaverecnych praci; Navrh doplneni VR; Navrh disciplinarni komise; VaJ rad; Rozdeleni financnich prostredku na rok 2011 a Vyrocni zprava za rok 2009; Podpora AJ ve vyuce; harmonogram SZZ; kampan na FEL Fest; Termin dalsiho zasedani AS FEL</description>
+        <enclosure url="https://media.feld.cvut.cz/archive/asfel/20100604.mp3" type="audio/mpeg" />
+    </item>
+
+    <item>
+        <title>4. radne zasedani dne 1. 10. 2010</title>
+        <link>http://www.fel.cvut.cz/senat/</link>
+        <description>Program zasedani: Schvaleni programu; Schvaleni zapisu; Novy clen AS - Jiri Svaton; Volba predsednictva; Dotazy na vedeni; Elektronicke volby; Vyberove rizeni; Zmena stipendii; Konference; Vykazovani vysledku v RIV; Termin dalsiho zasedani AS FEL</description>
+        <enclosure url="https://media.feld.cvut.cz/archive/asfel/20101001.mp3" type="audio/mpeg" />
+    </item>
+
+    <item>
+        <title>5. radne zasedani dne 22. 10. 2010</title>
+        <link>http://www.fel.cvut.cz/senat/</link>
+        <description>Program zasedani: Schvaleni programu; Schvaleni zapisu; Casovy plan ak. roku; VZ FEL za rok 2009; Podminky pro prijeti ke studiu; Smernice Dekana pro prijimaci rizeni ke studiu;	Predpis pro provadeni stud. programu; Nova Kometa; Informace k LVR; Priprava voleb do AS CVUT; Ruzne</description>
+        <enclosure url="https://media.feld.cvut.cz/archive/asfel/20101022.mp3" type="audio/mpeg" />
+    </item>
+
+    <item>
+        <title>1. mimoradne zasedani dne 25. 10. 2010</title>
+        <link>http://www.fel.cvut.cz/senat/</link>
+        <description>Program zasedani: Schvaleni programu</description>
+        <enclosure url="https://media.feld.cvut.cz/archive/asfel/20101025.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+        <title>6. radne zasedani dne 12. 11. 2010</title>
+        <link>http://www.fel.cvut.cz/senat/</link>
+        <enclosure url="https://media.feld.cvut.cz/archive/asfel/20101112.mp3" type="audio/mpeg"/>
+    </item>
+    
+    <item>
+        <title>7. radne zasedani dne 10. 12. 2010</title>
+        <link>http://www.fel.cvut.cz/senat/</link>
+        <enclosure url="https://media.feld.cvut.cz/archive/asfel/20101210.mp3" type="audio/mpeg"/>
+    </item>
+
+    <item>
+    	<title>8. radne zasedani dne 28. 1. 2011</title>
+        <link>http://www.fel.cvut.cz/senat/</link>
+        <enclosure url="https://media.feld.cvut.cz/archive/asfel/20110128.mp3" type="audio/mpeg"/>
+    </item>
+        
+    <item>
+    	<title>9. radne zasedani dne 25. 2. 2011</title>
+        <link>http://www.fel.cvut.cz/senat/</link>
+        <enclosure url="https://media.feld.cvut.cz/archive/asfel/20110225.mp3" type="audio/mpeg"/>
+    </item>
+        
+    <item>
+    	<title>10. radne zasedani dne 18. 3. 2011</title>
+        <link>http://www.fel.cvut.cz/senat/</link>
+        <enclosure url="https://media.feld.cvut.cz/archive/asfel/20110318.mp3" type="audio/mpeg"/>
+    </item>
+        
+</channel>
+</rss>

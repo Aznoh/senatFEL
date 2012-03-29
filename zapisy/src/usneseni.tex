@@ -1,0 +1,50 @@
+\nopagenumbers
+
+
+\newcount\cislousneseni
+\newcount\cislozasedani
+
+\global\newtoks\datum
+\newtoks\cislozasedani
+\newtoks\typzasedani
+\newtoks\predseda
+\newtoks\predsedajici
+\newtoks\tajemnik
+
+\parindent=0pt
+
+\font\titlefont=csbx10 at 18pt
+\font\subtitlefont=csbx10 at 14pt
+
+\global\def\zasedani{\the\cislozasedani. \the\typzasedani}
+
+\def\title{\vskip1cm{\baselineskip22pt\titlefont \centerline{Usnesení AS FEL}\centerline{schválená na \zasedani m
+zasedání dne \the\datum}}\vskip1cm}
+
+\def\usneseni#1#2{\advance\cislousneseni by 1{\subtitlefont Usnesení číslo
+\the\cislozasedani/\the\cislousneseni}\bigskip#1\hlasovani#2}
+
+\def\hlasovani#1,#2,#3.{\smallskip{\bf Výsledek hlasování:} pro #1, proti #2,
+zdržel se #3.\vskip1cm}
+
+\def\osoba#1{\centerline{#1}\smallskip}
+
+\def\goodbye{
+\removelastskip
+\bigskip
+\hrule
+\bigskip
+Všechna usnesení AS FEL jsou platná okamžikem jejich schválení.
+\bigskip
+\centerline{{\bf Předsednictvo AS FEL}}
+\medskip
+%\centerline{
+\def\me{\hskip2cm}
+\centerline{\vbox{
+\halign{\hfil\me##\me\hfil&\hfil\me##\me\hfil&\hfil\me##\me\hfil\cr
+\the\predseda&\the\predsedajici&\the\tajemnik\cr
+předseda&předsedající&tajemník\cr}}}
+\noexpand\end
+}
+
+\def\cara{\bigskip\hrule\bigskip}

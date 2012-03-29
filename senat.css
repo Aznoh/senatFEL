@@ -1,0 +1,11 @@
+h1 {font-size: 18pt; }
+h2 {font-size: 16pt; }
+h3 {font-size: 13pt; }
+h4 {font-size: 11pt; }
+
+table.novinky tr td
+
+div#kde span.fel {font-weight: bold; }
+div#senat-menu {margin-bottom: 2em; text-align: center; }
+div#senat-menu h1 {font-size: 18pt; margin-bottom: 1px; }
+div#senat-menu h1 span {border-bottom: 1px solid gray; padding-left: 6em; padding-right: 6em; }

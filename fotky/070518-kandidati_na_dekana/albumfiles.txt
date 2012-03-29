@@ -1,0 +1,27 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# To revert to filename or date ordering, remove or rename this file
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+01-20070518-115825_16.jpg
+02-20070518-092757_04.jpg
+03-20070518-101238_06.jpg
+04-20070518-140608_14.jpg
+05-20070518-112039_11.jpg
+06-20070518-151039_16.jpg
+07-20070518-142952_15.jpg
+08-20070518-154141_19.jpg
+09-20070518-154155_20.jpg
+-20070518-092605_01.jpg
+-20070518-092618_02.jpg
+-20070518-092728_03.jpg
+-20070518-100721_05.jpg
+-20070518-104801_07.jpg
+-20070518-110151_08.jpg
+-20070518-110200_09.jpg
+-20070518-110849_10.jpg
+-20070518-115821_12.jpg
+-20070518-151044_17.jpg
+-20070518-151103_18.jpg

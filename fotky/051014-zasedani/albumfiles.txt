@@ -1,0 +1,36 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# To revert to filename or date ordering, remove or rename this file
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+DSC00527.JPG
+DSC00528.JPG
+DSC00529.JPG
+DSC00531.JPG
+DSC00533.JPG
+DSC00535.JPG
+DSC00536.JPG
+DSC00537.JPG
+DSC00540.JPG
+DSC00541.JPG
+DSC00543.JPG
+DSC00545.JPG
+DSC00586.JPG
+DSC00600.JPG
+DSC00605.JPG
+DSC00610.JPG
+DSC00611.JPG
+DSC00623.JPG
+DSC00638.JPG
+DSC00651.JPG
+DSC00652.JPG
+PICT0044.JPG
+PICT0045.JPG
+PICT0047.JPG
+PICT0050.JPG
+PICT0051.JPG
+PICT0052.JPG
+PICT0054.JPG
+PICT0055.JPG

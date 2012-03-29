@@ -1,0 +1,1 @@
+Právì se nacházíte: <a href="http://www.cvut.cz/"><span class="cvut">ÈVUT</span></a> / <a href="../"><span class="fel">Fakulta  elektrotechnická</span></a> / <a href="./"><span class="fel">Akademický senát FEL</span></a>

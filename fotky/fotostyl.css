@@ -1,0 +1,21 @@
+/* Common */
+img { border: none }
+div.footer { font-style: italic }
+div.creator { text-align: right; font-size: 75%; margin-top: 0.8em }
+div#telo {margin-top: 0}
+div#navt, div#navb { margin-top: 0.1em; margin-bottom: 0.5em; text-align: center }
+
+/* Thumbs */
+div.fotoindex table { background: #fff; border: 1px solid #999; margin: 0px auto; padding: 2px }
+div.fotoindex td { background: #eee; border: 1px solid #999; width: auto; line-height: 110%; vertical-align: middle; text-align: center }
+div.fotoindex div.caption { font-size: 90% }
+div.fotoindex div#navb { margin-top: 1em }
+div.fotoindex div.pagescounter { font-size: 80%; color:#222222; margin-top: 0.8em}
+
+/* Page */
+div.fotopage { text-align: center }
+div.fotopage h2 { margin-top: 0.1em; margin-bottom: 0.2em; padding: 0px; }
+/*div.fotopage div#navt, div#navb { margin-top: 0.1em; margin-bottom: 0.5em }*/
+div.fotopage div#navt a, div#navb a { text-decoration: none; font-weight: normal }
+div.fotopage img { background: #fff; border: 1px solid #999; margin: 0 auto; padding: 10px }
+div.fotopage div#caption { margin: 1em; margin-left: 3em; margin-right: 3em; border-bottom: 2px solid #999; padding: 0.2em 0.5em 0.2em 0.5em}

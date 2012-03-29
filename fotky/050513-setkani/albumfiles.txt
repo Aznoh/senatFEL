@@ -1,0 +1,12 @@
+# This file is created by JAlbum. It sets custom file filtering and ordering for this image directory.
+# Each row indicate a file and it's order. Files not listed here are added to the end of the album
+# Rows beginning with "-" indicate excluded files.
+# To revert to filename or date ordering, remove or rename this file
+# Note: This file allows absolute paths to files and directories in other locations and thereby
+# allows you to compile albums consisting of files from several different locations.
+
+PICT0104.JPG
+PICT0120.JPG
+img00013.jpg
+img00031.jpg
+img00029.jpg

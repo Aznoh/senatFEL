@@ -1,0 +1,47 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-2">
+	<title>Tabulka účasti na zasedání AS FEL</title>
+
+	<style type="text/css">
+	td.p	{background: #80FF80; text-align: center}
+	td.o	{background: #FFFF00; text-align: center}
+	td.n	{background: #FF8080; text-align: center}
+	</style>
+</head><body>
+<table border="1">
+<tr><th>Zasedání</th><th>1ř</th><th>2ř</th><th>3ř</th><th>4ř</th><th>5ř</th><th>1m</th><th>6ř</th><th>7ř</th><th>8ř</th><th>9ř</th><th>10ř</th></tr>
+<tr><td>Boreš Petr      </td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Dobiáš Martin   </td><td class="o">O</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Fuka Jindřich   </td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="o">O</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Habala Petr     </td><td class="p">P</td><td class="o">O</td><td class="p">P</td><td class="o">O</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Hoffmann Karel  </td><td class="p">P</td><td class="p">P</td><td class="o">O</td><td class="o">O</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Janíček Vladimír</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Lev Miroslav    </td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="o">O</td><td class="p">P</td><td class="o">O</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Navara Mirko    </td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Novák Jiří      </td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Pěchouček Michal</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Píše Michal     </td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="o">O</td><td class="p">P</td><td class="p">P</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Pravda Ivan     </td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="o">O</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Skalický Petr   </td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="o">O</td><td class="p">P</td><td class="p">P</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td colspan="2"></tr>
+<tr><td>Bauer Jan      </td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Bujaček Karol  </td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="o">O</td><td class="o">O</td><td class="o">O</td><td class="o">O</td><td class="o">O</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Černoch Radomír</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Kubínyi Michal </td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="o">O</td><td class="o">O</td><td class="o">O</td><td class="p">P</td><td class="p">P</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Kučera Ondřej  </td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Lebeda Karel   </td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="o">O</td><td class="p">P</td><td class="p">P</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Mudrová Lenka  </td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="o">O</td><td class="p">P</td><td class="o">O</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Scheirich Ján  </td><td class="o">O</td><td class="p">P</td><td class="p">P</td></tr>
+<tr><td>Sláma Jan      </td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Svatoň Jiří    </td><td colspan="3">&nbsp;</td><td class="p">P</td><td class="p">P</td><td class="o">O</td><td class="p">P</td><td class="p">P</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+<tr><td>Zemánek Jiří   </td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="p">P</td><td class="o">O</td><td class="p">P</td><td class="p">P</td><td>&nbsp;</td><td>&nbsp;</td></tr>
+</table>
+<br>
+<table border="1">
+<tr><th colspan="2">Legenda</th></tr>
+<tr><td class="p">P</td><td>Přítomen</td></tr>
+<tr><td class="o">O</td><td>Omluven</td></tr>
+<tr><td class="n">N</td><td>Neomluven</td></tr>
+</table>
+</body></html>

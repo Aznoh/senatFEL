@@ -1,0 +1,125 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="cs">
+<head>
+<title>Akademický senát FEL ÈVUT</title>
+
+<!--#include virtual="/hlavicka.inc" -->
+<style type="text/css">
+<!--
+@import "/senat/senat.css";
+
+table.novinky tr td { width: 50%; vertical-align: top; padding: 0px }
+table.novinky tr td h3 {text-align: center; background: #E0E0E0; margin: 0; color: #444444; padding: 0.2em}
+table.novinky tr td div.novinky-panel {border: 1px solid #E0E0E0; margin-left:10px; margin-right:10px; margin-bottom:20px}
+table.novinky tr td div.novinky-panel div.novinky-spacer {padding: 1em}
+
+ol#program {padding-left:2em}
+ol#program ol {list-style-type: lower-latin; padding-left:1.5em }
+
+p.kontakt a {font-weight: normal; background: none; padding: 0}
+
+div.aktual { margin: 0 }
+div.aktual h4 {font-weight:bold; color:black }
+div.aktual a, div.aktual a:visited {font-weight:bold; color:black }
+div.aktual p a {font-weight:normal}
+div.aktual hr {border:0; border-top: 1px solid #E0E0E0; height:0px;}
+div.aktual:last-child hr {display:none}
+div.aktual .date {color:gray}
+
+div#kontakt a { font-weight: normal }
+div#kontakt a[href^="mailto:"] { background: none; padding-right: 0}
+-->
+</style>
+</head> 
+
+<!--
+	================================
+	===== ZAÈÍNÁ OBSAH STRÁNKY =====
+	================================
+-->
+
+<body>
+<div id="stranka">
+<div id="vnitrek">
+
+<div id="kde">
+<!--#include file="navigace.inc" -->
+</div>
+
+<!--#include virtual="/horni-menu.inc" -->
+
+<div id="telo"><!-- Telo - zacatek -->
+
+<!--#include virtual="/senat/menu.inc" -->
+
+
+	<!-- Novinky - zaèátek -->
+	<table class='novinky'>
+	<tr>
+		<!-- Novinky - první sloupec -->
+		<td id='novinky-leve'>
+
+			<div class='novinky-panel'><h3>Pøí¹tí zasedání</h3><div class='novinky-spacer'>
+
+<!--#include file="priste.inc" -->
+
+			<center style="margin-top: 1em">
+				<i>Zasedání Akademického senátu jsou veøejná.
+				V¹ichni èlenové Akademické obce jsou srdeènì zváni.</i>
+			</center>
+
+			</div> <!-- /novinky-spacer -->
+			</div> <!-- /novinky-panel -->
+
+
+			<div id='kontakt' class='novinky-panel'><h3>Kontakt</h3><div class='novinky-spacer'>
+<!--#include virtual="/senat/kontakt.inc" -->
+			</div> <!-- /novinky-spacer -->
+			</div> <!-- /novinky-panel -->
+
+		</td>
+
+		<!-- Novinky - druhý sloupec -->
+		<td id='novinky-prave'>
+
+			<div class='novinky-panel'><h3>Aktuálnì</h3><div class='novinky-spacer'>
+<!--#include file="novinky.inc" -->
+			</div> <!-- /novinky-spacer -->
+			</div> <!-- /novinky-panel -->
+
+		</td>
+	</tr>
+	</table>
+	<!-- Novinky - konec -->
+
+
+</div> <!-- Telo - konec -->
+
+
+
+<!--
+	================================
+	===== ZAÈÍNÁ FAKULTNÍ MENU =====
+	================================
+-->
+
+<!--#include virtual="/menu1.inc" -->
+
+
+
+
+<!--
+	==========================
+	===== ZAÈÍNÁ PATIÈKA =====
+	==========================
+-->
+
+<div id="linka2">
+	<div class="levemenu"><!--#include virtual="/senat/webmaster.inc" --></div>
+	<div class="pravemenu">Poslední zmìna: <!--#config timefmt="%d. %m. %Y" --><!--#echo var="LAST_MODIFIED" --></div>
+</div>
+
+</div> <!-- Vnitrek - konec -->
+</div> <!-- Stranka - konec -->
+</body>
+</html>
